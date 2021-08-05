@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img class="profile" alt="Rachel profile" src="./assets/profile2.jpg">
+    <img class="profile" alt="Rachel profile" src="./assets/profile3.jpg">
     <Resume msg="Rachel Connolly"/>
     
   </div>

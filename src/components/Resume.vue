@@ -1,17 +1,20 @@
 <template>
   <div class="front-page">
     <h1>{{ msg }}</h1>
-    <h3>Computer Engineering junior at the University of Michigan</h3>
+    <h3>Computer Computer Engineering Senior at the University of Michigan</h3>
 
-    <p class="description">Hi, Welcome to my page! I am passionate about embedded systems and backend 
-      software engineering, and am seeking a summer 2021 internship. 
+    <p class="description">Hi, Welcome to my page! I am passionate about backend 
+      software engineering and embedded systems, and am seeking a full time position beginning in summer 2022. 
+      This past summer I worked as a SDE intern for the Hotpads Rentals org within Zillow Group. 
+      I gained experience with Java, SQL, and industry coding standards in general.
       I studied abroad in France during the spring 2020 term pursuing my international minor, 
-      and learned Vue.js and HTML/CSS when creating this site over the summer. 
-      I work for the University of Michigan EECS Department as an instructional aide for a programming 
-      and data structures course. In my free time I enjoy landscape photography, painting 
+      and learned Vue.js and HTML/CSS when creating this site over summer 2020. 
+      I have worked for the University of Michigan EECS Department as an instructional 
+      aide for operating systems and programming and data structures courses. 
+      In my free time I enjoy landscape photography, painting 
       landscapes with acrylics, and throwing on the pottery wheel.</p>
     
-    <p class="punchline">Please feel free to take a look at my <a href="./Rachel-Connolly-Resume.pdf" target="_blank">Resume</a>.</p>
+    <p class="punchline">Please feel free to take a look at my <a href="./rachel-connolly-resume-f21.pdf" target="_blank">Resume</a>.</p>
 
 
     <div class="links">
